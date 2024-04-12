@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Author: Tushar Kanta Swain
+
 # calculate the sum
 x=$((1 + 2 + 3))
 
